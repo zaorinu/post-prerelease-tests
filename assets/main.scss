@@ -1,5 +1,15 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
 @import "minima";
+
+body.dark-mode {
+  background-color: #121212;
+  color: #eee;
+}
+
+body.dark-mode a {
+  color: #90cdf4;
+}
+
+/* Ajuste do botão no header */
+#dark-mode-toggle {
+  color: inherit;
+}
