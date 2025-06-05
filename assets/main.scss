@@ -1,15 +1,24 @@
 @import "minima";
 
-body.dark-mode {
-  background-color: #121212;
-  color: #eee;
+// Light mode (default styles)
+body {
+  background-color: white;
+  color: black;
 }
 
-body.dark-mode a {
-  color: #90cdf4;
-}
+// Dark mode using media query
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #eee;
+  }
 
-/* Ajuste do botão no header */
-#dark-mode-toggle {
-  color: inherit;
+  a {
+    color: #8ab4f8;
+  }
+
+  // Adjust other elements as needed
+  header, footer {
+    background-color: #222;
+  }
 }
