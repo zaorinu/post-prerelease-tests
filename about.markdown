@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is an independent blog made from people like you! Create an post at [posts mirror](https://github.com/zunalita/posts)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find the source code for Zunalita at GitHub:
+[zunalita](https://github.com/zunalita/zunalita.github.io)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find CyonicSolutions, the owner of Zunalita:
+[CyonicSolutions](https://getcyonic.github.io)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[zunalita-organization]: https://github.com/zunalita
