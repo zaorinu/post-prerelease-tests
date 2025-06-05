@@ -3,3 +3,24 @@
 ---
 
 @import "minima";
+
+:root {
+  --bg: #ffffff;
+  --fg: #111111;
+  --link: #0366d6;
+}
+
+[data-theme="dark"] {
+  --bg: #111111;
+  --fg: #f1f1f1;
+  --link: #58a6ff;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--fg);
+}
+
+a {
+  color: var(--link);
+}
