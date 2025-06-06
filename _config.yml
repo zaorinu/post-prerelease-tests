@@ -27,7 +27,7 @@ url: "https://zunalita.github.io" # the base hostname & protocol for your site, 
 github_username:  zunalita
 
 disqus:
-  shortname: zunalita.blogger
+  shortname: zunalita.blogger.com
 
 plugins:
   - jekyll-seo-tag
